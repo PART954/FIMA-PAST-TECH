@@ -1,0 +1,21 @@
+{
+  "version": "FIMA V5.4",
+  "parcelle": {
+    "id": "NGUDIABAKA-1HA-001",
+    "nom": "Ngudiabaka",
+    "superficie_totale": "1 ha",
+    "type_sol": "Sableux, leger, proche fleuve"
+  },
+  "cultures": [
+    {
+      "lot": "A - 60 ares",
+      "espece": "Pasteque Viking",
+      "lot_numero": "42617",
+      "fournisseur": "BENIN SEMENCES"
+    },
+    {
+      "lot": "B - 40 ares",
+      "espece": "Aubergine Violetta Lunga 2"
+    }
+  ]
+}
