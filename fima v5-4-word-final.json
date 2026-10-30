@@ -1,0 +1,9 @@
+{
+  "version": "FIMA V5.4 WORLD FINAL",
+  "status": "FINALISE 20H",
+  "plant_identifier_auto": {
+    "flow": "PHOTO -> NOM AUTO -> DIAG",
+    "exemple": "Photo prise à Bibwa -> 'C'est du Manioc - Manihot esculenta 96%'"
+  },
+  "objectif": "20k plantes + 10k animaux + Mobile Money + PRO 29$"
+}
